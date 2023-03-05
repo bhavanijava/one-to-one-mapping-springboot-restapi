@@ -3,6 +3,11 @@
 
 Json Request:
 ```bhavani
+URL:- http://localhost:4444/save
+httpmethod: POST
+```
+
+```bhavani
 {
     "id": 112,
     "name": "bhavani",
